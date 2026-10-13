@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.qss</file>
+        <file>res/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
